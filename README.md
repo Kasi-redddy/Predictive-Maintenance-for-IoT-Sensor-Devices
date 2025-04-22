@@ -1,6 +1,5 @@
 # Predictive-Maintenance-for-IoT-Sensor-Devices
 
-# Predictive Maintenance for IoT Sensor Devices 🚀
 
 Welcome to my **Predictive Maintenance for IoT Sensor Devices** project! In this project, we predict potential equipment failures based on sensor data, helping businesses avoid unexpected downtimes by identifying issues before they become critical.
 
